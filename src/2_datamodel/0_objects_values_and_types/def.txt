@@ -1,0 +1,6 @@
+What is the Data model?
+
+1. objects, values and types
+    What is?:
+        id()
+        type()
